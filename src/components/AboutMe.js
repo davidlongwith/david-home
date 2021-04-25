@@ -2,8 +2,8 @@ import React from "react";
 import "../css/aboutme.css";
 
 const AboutMe = () => (
-  <section className="main-content-section">
-    <h1 className="main-content-header">About me</h1>
+  <section className="section-wrapper">
+    <h1 className="section-header">About me</h1>
     <div className="about-me-content">
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting

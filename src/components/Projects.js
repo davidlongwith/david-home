@@ -2,8 +2,8 @@ import React from "react";
 import "../css/projects.css";
 
 const Projects = () => (
-  <section className="main-content-section">
-    <h2 className="main-content-header">Projects</h2>
+  <section className="section-wrapper">
+    <h2 className="section-header">Projects</h2>
   </section>
 );
 

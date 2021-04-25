@@ -6,11 +6,11 @@ main {
   margin: 25px;
 }
 
-.main-content-section {
+.section-wrapper {
   margin-bottom: 25px;
 }
 
-.main-content-header {
+.section-header {
   background-color: #21252c;
 }
 
