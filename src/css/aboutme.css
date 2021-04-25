@@ -3,6 +3,10 @@
   font-size: 1.75em;
 }
 
+.about-me-content {
+  background-color: #2a2e33;
+}
+
 .about-me p {
   color: #dfe4e6;
 }
