@@ -1,6 +1,14 @@
+.about-me-content {
+  text-align: center;
+}
+
 .about-me-content img {
   border-radius: 50%;
   height: 100px;
   margin: 18px;
   width: 100px;
+}
+
+.about-me-content p {
+  text-align: left;
 }
