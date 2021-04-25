@@ -10,5 +10,6 @@
 }
 
 .about-me-content p {
+  padding: 0 1em 1em;
   text-align: left;
 }

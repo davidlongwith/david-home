@@ -1,12 +1,12 @@
 import React from "react";
-import selfie from "../image.jpg";
+import avatar from "../image.jpg";
 import "../css/aboutme.css";
 
 const AboutMe = () => (
   <section className="section-wrapper">
     <h1 className="section-header">About me</h1>
     <div className="about-me-content">
-      <img src={selfie} alt="" />
+      <img src={avatar} alt="" />
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
