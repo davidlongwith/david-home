@@ -6,6 +6,14 @@ main {
   margin: 25px;
 }
 
+.main-content-section {
+  margin-bottom: 25px;
+}
+
+.main-content-header {
+  background-color: #21252c;
+}
+
 h1,
 h2,
 p {

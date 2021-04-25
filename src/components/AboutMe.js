@@ -2,8 +2,8 @@ import React from "react";
 import "../css/aboutme.css";
 
 const AboutMe = () => (
-  <div className="about-me">
-    <h1 className="about-me-header">About me</h1>
+  <section className="main-content-section">
+    <h1 className="main-content-header">About me</h1>
     <div className="about-me-content">
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -17,7 +17,7 @@ const AboutMe = () => (
         of Lorem Ipsum.
       </p>
     </div>
-  </div>
+  </section>
 );
 
 export default AboutMe;
