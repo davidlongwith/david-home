@@ -1,9 +1,11 @@
 .about-me-content {
+  max-width: 70em;
   text-align: center;
 }
 
-@media (min-width: 50em) {
+@media (min-width: 60em) {
   .about-me-content {
+    align-items: center;
     display: flex;
   }
 }
