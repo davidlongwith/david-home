@@ -1,5 +1,4 @@
 .app {
-  text-align: center;
 }
 
 main {
@@ -13,6 +12,8 @@ main {
 
 .section-header {
   background-color: #21252c;
+  font-size: 1.25em;
+  padding: 0.75em;
 }
 
 h1,
