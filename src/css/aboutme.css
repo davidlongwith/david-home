@@ -1,4 +1,6 @@
 .about-me-content img {
-  height: auto;
-  width: 75%;
+  border-radius: 50%;
+  height: 100px;
+  margin: 18px;
+  width: 100px;
 }
