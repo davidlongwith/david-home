@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from "../image.jpg";
+import avatar from "../images/image.jpg";
 import "../css/aboutme.css";
 
 const AboutMe = () => (
