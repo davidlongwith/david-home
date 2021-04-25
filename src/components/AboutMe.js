@@ -8,15 +8,10 @@ const AboutMe = () => (
     <div className="about-me-content">
       <img src={avatar} alt="" />
       <p>
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum.
+        My name is David Longwith. I am a front end web developer located in
+        Richmond, Virginia USA. My expertise is in HTML, CSS, JavaScript, and
+        React. Experienced in all stages of web site and application development
+        from concept to deployment.
       </p>
     </div>
   </section>
