@@ -3,7 +3,7 @@ import "../css/header.css";
 
 const Header = () => (
   <header className="app-header">
-    <h1>DavidLongwith.com</h1>
+    <a href="#root">DavidLongwith.com</a>
   </header>
 );
 
