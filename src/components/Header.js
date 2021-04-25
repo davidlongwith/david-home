@@ -1,8 +1,9 @@
 import React from "react";
+import "../css/header.css";
 
 const Header = () => (
   <header className="app-header">
-    <h1>DAVIDLONGWITH.COM</h1>
+    <h1>DavidLongwith.com</h1>
   </header>
 );
 
