@@ -1,11 +1,11 @@
 import React from "react";
-import Projects from "./Projects.js";
+import Project from "./Project.js";
 import "../css/projects.css";
 
 const ProjectList = () => (
   <section className="section-wrapper">
     <h2 className="section-header">Projects</h2>
-    <Projects />
+    <Project />
   </section>
 );
 
