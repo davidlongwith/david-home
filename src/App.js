@@ -3,7 +3,6 @@ import Header from "./components/Header.js";
 import AboutMe from "./components/AboutMe.js";
 import Projects from "./components/ProjectList.js";
 import "./css/app.css";
-import data from "./data/projects.json";
 
 function App() {
   return (
@@ -11,7 +10,7 @@ function App() {
       <Header />
       <main>
         <AboutMe />
-        <Projects projects={data} />
+        <Projects />
       </main>
     </div>
   );
