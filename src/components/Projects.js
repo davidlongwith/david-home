@@ -9,8 +9,8 @@ const Projects = ({ projectsData }) => (
       ) : (
         projectsData.map((project) => (
           <li key={project.name}>
-            project name: {project.name} project description:{" "}
-            {project.description}
+            <p>{project.name}</p>
+            <p>{project.description}</p>
           </li>
         ))
       )}
