@@ -1,4 +1,5 @@
 import React from "react";
+import "../css/projects.css";
 
 // display individual project content
 const ProjectDiv = ({ title, description, link }) => (

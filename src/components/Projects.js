@@ -1,5 +1,6 @@
 import React from "react";
 import ProjectDiv from "./ProjectDiv.js";
+import "../css/projects.css";
 
 // display Projects section and create projects list
 const Projects = ({ projectsData }) => (
