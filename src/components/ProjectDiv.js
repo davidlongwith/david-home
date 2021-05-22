@@ -1,10 +1,10 @@
 import React from "react";
 
 // display individual project content
-const ProjectDiv = ({ name, description }) => (
+const ProjectDiv = ({ title, description }) => (
   <div>
     <p>
-      {name}
+      {title}
       <br />
       {description}
     </p>

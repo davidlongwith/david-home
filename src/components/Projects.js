@@ -10,7 +10,7 @@ const Projects = ({ projectsData }) => (
         <p>Oops! No projects listed</p>
       ) : (
         projectsData.map((project) => (
-          <ProjectDiv key={project.name} {...project} />
+          <ProjectDiv key={project.title} {...project} />
         ))
       )}
     </div>

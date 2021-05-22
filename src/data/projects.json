@@ -1,4 +1,4 @@
 [
-  { "name": "test 1", "description": "this is a test" },
-  { "name": "test 2", "description": "this is a test2" }
+  { "title": "test 1", "description": "this is a test" },
+  { "title": "test 2", "description": "this is a test2" }
 ]
