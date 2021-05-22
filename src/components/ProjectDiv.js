@@ -1,13 +1,17 @@
 import React from "react";
 
 // display individual project content
-const ProjectDiv = ({ title, description }) => (
+const ProjectDiv = ({ title, description, link }) => (
   <div>
-    <p>
-      {title}
-      <br />
-      {description}
-    </p>
+    <div>
+      <p>{title}</p>
+    </div>
+    <div>
+      <p>{description}</p>
+    </div>
+    <div>
+      <a href={link}>Live</a>
+    </div>
   </div>
 );
 

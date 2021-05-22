@@ -1,4 +1,8 @@
 [
-  { "title": "test 1", "description": "this is a test" },
+  {
+    "title": "test 1",
+    "description": "this is a test",
+    "link": "https://google.com"
+  },
   { "title": "test 2", "description": "this is a test2" }
 ]
