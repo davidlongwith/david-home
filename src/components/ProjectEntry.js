@@ -1,5 +1,5 @@
 import React from "react";
-import "../css/projects.css";
+import "../css/project-entry.css";
 
 // display individual project content
 const ProjectEntry = ({ title, description, link }) => (
