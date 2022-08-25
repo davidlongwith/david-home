@@ -8,10 +8,10 @@ const AboutMe = () => (
     <div className="about-me-content">
       <img src={avatar} alt="" />
       <p>
-        My name is David Longwith. I am a front end web developer located in
-        Richmond, Virginia USA. My expertise is in HTML, CSS, JavaScript, and
-        React. Experienced in all stages of web site and application development
-        from concept to deployment.
+        My name is David Longwith. I develop web sites and applications at all
+        stages from concept to deployment. My expertise is primarly focused on
+        front-end technologies such as HTML/CSS, JavaScript, and the React
+        Framework.
       </p>
     </div>
   </section>
