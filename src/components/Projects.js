@@ -1,6 +1,6 @@
 import React from "react";
-import ProjectDiv from "./ProjectDiv.js";
 import "../css/projects.css";
+import ProjectEntry from "./ProjectEntry.js";
 
 // display Projects section and create projects list
 const Projects = ({ projectsData }) => (
@@ -11,7 +11,7 @@ const Projects = ({ projectsData }) => (
         <p>Oops! No projects listed</p>
       ) : (
         projectsData.map((project) => (
-          <ProjectDiv key={project.title} {...project} />
+          <ProjectEntry key={project.title} {...project} />
         ))
       )}
     </div>

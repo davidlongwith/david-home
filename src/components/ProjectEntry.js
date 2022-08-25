@@ -2,7 +2,7 @@ import React from "react";
 import "../css/projects.css";
 
 // display individual project content
-const ProjectDiv = ({ title, description, link }) => (
+const ProjectEntry = ({ title, description, link }) => (
   <div>
     <div>
       <p>{title}</p>
@@ -16,4 +16,4 @@ const ProjectDiv = ({ title, description, link }) => (
   </div>
 );
 
-export default ProjectDiv;
+export default ProjectEntry;
