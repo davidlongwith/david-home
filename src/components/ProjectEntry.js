@@ -3,7 +3,7 @@ import "../css/project-entry.css";
 
 // display individual project content
 const ProjectEntry = ({ title, description, link }) => (
-  <div>
+  <div className="entry-container">
     <div>
       <p>{title}</p>
     </div>

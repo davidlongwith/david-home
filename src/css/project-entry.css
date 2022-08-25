@@ -1,0 +1,9 @@
+.entry-container {
+  border: 1px solid #fff;
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+
+.entry-container div {
+  padding: 12px;
+}
