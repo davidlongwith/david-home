@@ -1,4 +1,6 @@
 .project-list {
   color: yellow;
+  margin: 0 auto;
+  max-width: 70em;
   padding: 1.5em;
 }
