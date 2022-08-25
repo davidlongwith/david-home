@@ -3,22 +3,29 @@
   text-align: center;
 }
 
-@media (min-width: 60em) {
-  .about-me-content {
-    align-items: center;
-    display: flex;
-    margin: 0 auto;
-  }
-}
-
 .about-me-content img {
   border-radius: 50%;
-  height: 100px;
+  height: 115px;
   margin: 18px;
-  width: 100px;
+  width: 115px;
 }
 
 .about-me-content p {
+  font-size: 1.1em;
   padding: 0 1em 1em;
   text-align: left;
+}
+
+/* When the browser is at least 60em and above */
+@media (min-width: 60em) {
+  .about-me-content img {
+    height: 140px;
+    width: 140px;
+  }
+  .about-me-content {
+    align-items: center;
+    display: flex;
+    font-size: 1.2em;
+    margin: 0 auto;
+  }
 }
