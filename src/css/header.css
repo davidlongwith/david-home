@@ -1,5 +1,6 @@
 .app-header {
   background-color: #2a2e33;
+  flex-shrink: 0;
   padding: 1em;
 }
 
