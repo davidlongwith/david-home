@@ -10,7 +10,7 @@ const ProjectEntry = ({ title, description, link }) => (
     <div>
       <p>{description}</p>
     </div>
-    <div>
+    <div className="project-link">
       <a href={link}>Live</a>
     </div>
   </div>
