@@ -1,5 +1,5 @@
 .entry-container {
-  border: 1px solid #fff;
+  border: 5px solid #16191e;
   margin-bottom: 1.5em;
   text-align: center;
 }
@@ -13,12 +13,12 @@
 }
 
 .project-title p {
-  color: whitesmoke;
+  color: rgb(198, 186, 20);
   font-size: 2em;
 }
 
 .project-description {
-  color: rgb(198, 186, 20);
+  color: white;
 }
 
 .project-link a {
