@@ -13,6 +13,10 @@ main {
   margin-bottom: 25px;
 }
 
+.section-wrapper:last-child {
+  margin-bottom: 0;
+}
+
 .section-header {
   background-color: #21252c;
   font-size: 1.25em;
