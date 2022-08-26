@@ -4,10 +4,10 @@ import "../css/project-entry.css";
 // display individual project content
 const ProjectEntry = ({ title, description, link }) => (
   <div className="entry-container">
-    <div>
+    <div className="project-title">
       <p>{title}</p>
     </div>
-    <div>
+    <div className="project-description">
       <p>{description}</p>
     </div>
     <div className="project-link">
