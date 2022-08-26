@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./components/Header.js";
 import AboutMe from "./components/AboutMe.js";
 import Projects from "./components/Projects.js";
+import Footer from "./components/Footer.js";
 import "./css/app.css";
 import data from "./data/projects.json";
 
@@ -12,6 +13,7 @@ function App() {
       <main>
         <AboutMe />
         <Projects projectsData={data} />
+        <Footer />
       </main>
     </div>
   );
