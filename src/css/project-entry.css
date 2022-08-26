@@ -18,7 +18,8 @@
 }
 
 .project-description {
-  color: white;
+  color: whitesmoke;
+  font-size: 1.1em;
 }
 
 .project-link a {
