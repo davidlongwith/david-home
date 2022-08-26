@@ -34,15 +34,12 @@
 }
 
 .project-link a:focus,
-.project-link a:hover {
-  border-bottom: 1px solid;
-  color: blue;
-}
-
+.project-link a:hover,
 .project-link a:active {
-  color: whitesmoke;
+  border-bottom: 1px solid rgb(32, 121, 255);
 }
 
+/* Adds an external link icon "after" the link if href link starts with these values */
 .project-link a[href^="http"]::after,
 .project-link a[href^="https://"]::after
 {
