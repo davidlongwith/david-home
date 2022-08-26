@@ -1,5 +1,6 @@
 .entry-container {
   border: 5px solid #16191e;
+  background-color: #21252c;
   margin-bottom: 1.5em;
   text-align: center;
 }
@@ -40,7 +41,7 @@
   border-bottom: 1px solid rgb(32, 121, 255);
 }
 
-/* Adds an external link icon "after" the link if href link starts with these values */
+/* Adds an external link icon "after" the link if href starts with these values */
 .project-link a[href^="http"]::after,
 .project-link a[href^="https://"]::after
 {
