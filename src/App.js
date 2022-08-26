@@ -13,8 +13,8 @@ function App() {
       <main>
         <AboutMe />
         <Projects projectsData={data} />
-        <Footer />
       </main>
+      <Footer />
     </div>
   );
 }

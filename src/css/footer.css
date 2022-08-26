@@ -1,0 +1,16 @@
+.app-footer {
+  background-color: #2a2e33;
+  padding: 1em;
+}
+
+.app-footer a {
+  font-size: 1.5em;
+}
+
+.app-footer a:link,
+.app-footer a:visited,
+.app-footer a:hover,
+.app-footer a:active {
+  color: #dfe4e6;
+  text-decoration: none;
+}
