@@ -15,11 +15,11 @@
 
 .project-title p {
   color: rgb(198, 186, 20);
-  font-size: 2em;
+  font-size: 1.6em;
 }
 
 .project-description {
-  color: whitesmoke;
+  color: #fff;
   font-size: 1.1em;
 }
 
