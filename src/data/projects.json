@@ -6,17 +6,17 @@
   },
   {
     "title": "3D Cube",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "link": "https://google.com"
+    "description": "3d graphics in the browser using the Three.js framework and WebGL",
+    "link": "https://davidlongwith.github.io/webgl-cube-demo/"
   },
   {
     "title": "React Todo",
-    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    "link": "https://google.com"
+    "description": "A basic, front-end only, To-Do application built with React.",
+    "link": "https://davidlongwith.github.io/react-todo/"
   },
   {
     "title": "React Clock",
-    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    "link": "https://google.com"
+    "description": "A digital clock display featuring reusable React components.",
+    "link": "https://davidlongwith.github.io/react-clock/"
   }
 ]
