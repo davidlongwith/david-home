@@ -11,7 +11,9 @@ const ProjectEntry = ({ title, description, link }) => (
       <p>{description}</p>
     </div>
     <div className="project-link">
-      <a href={link}>LIVE</a>
+      <a href={link} target="_blank" rel="noreferrer">
+        LIVE
+      </a>
     </div>
   </div>
 );
