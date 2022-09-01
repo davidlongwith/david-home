@@ -3,7 +3,7 @@ import "../css/footer.css";
 
 const Footer = () => (
   <footer className="app-footer">
-    <a href="#root">davidlongwith.com</a>
+    <p>david@davidlongwith.com</p>
   </footer>
 );
 

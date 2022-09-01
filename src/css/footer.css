@@ -5,15 +5,7 @@
   text-align: center;
 }
 
-.app-footer a {
+.app-footer p {
   font-family: cursive;
   font-size: 1em;
-}
-
-.app-footer a:link,
-.app-footer a:visited,
-.app-footer a:hover,
-.app-footer a:active {
-  color: #dfe4e6;
-  text-decoration: none;
 }
