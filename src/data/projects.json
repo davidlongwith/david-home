@@ -1,5 +1,10 @@
 [
   {
+    "title": "Havok Testing Grounds",
+    "description": "Hobby project for testing out the new Havok Physics plugin for BabylonJS.  It's essentially a BabylonJS Playground but prettier with physics enabled, some objects thrown in, and Lots of comments. Excellent for learning or reference.",
+    "link": "https://davidlongwith.github.io/HavokTestingGrounds/"
+  },
+  {
     "title": "Git Helper",
     "description": "A quick reference app for commonly used Git commands.  Installable on both desktop and mobile, this progressive web application features native app functionality, lightning fast load times, and even works offline!",
     "link": "https://davidlongwith.github.io/git-helper/"
