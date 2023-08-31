@@ -8,10 +8,7 @@ const AboutMe = () => (
     <div className="about-me-content">
       <img src={AboutMePic} alt="" />
       <p>
-        My name is David Longwith. I develop web sites and applications at all
-        stages from concept to deployment. My expertise is primarly focused on
-        front-end technologies such as HTML/CSS, JavaScript, and the React
-        Framework.
+        Hello, I'm David Longwith—an enthusiastic web developer who enjoys bringing digital ideas to life, all the way from conceptualization to deployment. I have a solid grasp of frontend technologies like HTML, CSS, and JavaScript, and I've had rewarding experiences using the React Framework to build user-friendly interfaces. Additionally, I have a keen interest in exploring the exciting realm of web-based 3D graphics, always looking for new avenues to learn and innovate.
       </p>
     </div>
   </section>
