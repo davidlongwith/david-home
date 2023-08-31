@@ -5,14 +5,14 @@
     "link": "https://davidlongwith.github.io/HavokTestingGrounds/"
   },
   {
+    "title": "Cube3d",
+    "description": "Basic 3d scene using BabylonJS",
+    "link": "https://davidlongwith.github.io/Cube3d/"
+  },
+  {
     "title": "Git Helper",
     "description": "A quick reference app for commonly used Git commands.  Installable on both desktop and mobile, this progressive web application features native app functionality, lightning fast load times, and even works offline!",
     "link": "https://davidlongwith.github.io/git-helper/"
-  },
-  {
-    "title": "3D Cube",
-    "description": "3d graphics in the browser using the Three.js framework and WebGL",
-    "link": "https://davidlongwith.github.io/webgl-cube-demo/"
   },
   {
     "title": "React Todo",
@@ -23,5 +23,10 @@
     "title": "React Clock",
     "description": "A digital clock display featuring reusable React components.",
     "link": "https://davidlongwith.github.io/react-clock/"
+  },
+  {
+    "title": "3D Cube",
+    "description": "3d graphics in the browser using the Three.js framework and WebGL",
+    "link": "https://davidlongwith.github.io/webgl-cube-demo/"
   }
 ]
